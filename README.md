@@ -1,6 +1,6 @@
 # Key_Hunter_Max
 search for bitcoin keys, wallet files, seed phrases in any files
-To start, you can use programs 1 and 2. Python must also be installed on the computer.
+To start, you can use programs VS Code or PyCharm. Python must also be installed on the computer.
 You can configure some options in the program.
 1- on line 17 you can enter the number of threads. The default is 10.
 2- in line 18 you can select the percentage of repeated characters in the key. By default, if more than 25%, the key will be thrown into the trash.

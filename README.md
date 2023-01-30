@@ -12,5 +12,5 @@ ____
 * At the moment, the program finds keys in all common file formats, with the exception of archives. To search in the archives, they must first be unzipped.
 * To be sure that the search will not miss your possible keys, create test files with keys of the format you need and check them.
 * At the moment, work is underway to refine and optimize the program. If you come across files in which the program does not see the keys, please let me know at the email address specified in the profile. You can also write your suggestions there.
-* You can support me, say thank you, or make a contribution to the project by sending a transfer to the * BTC 17qKVuKztzRBzyDL6gFjG4qitDy2TrBFws
-* ETH 0x1Ec2291E33Bc399Fa65e4DE03966d5Ed7a550583
+* You can support me, say thank you, or make a contribution to the project by sending a transfer to the BTC 17qKVuKztzRBzyDL6gFjG4qitDy2TrBFws
+or ETH 0x1Ec2291E33Bc399Fa65e4DE03966d5Ed7a550583

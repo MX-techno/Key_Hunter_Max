@@ -1,5 +1,5 @@
 # Key_Hunter_Max
-search for bitcoin keys, wallet files, seed phrases in any files
+#Search for bitcoin keys, wallet files, seed phrases in any files.
 ____
 To start, you can use programs VS Code or PyCharm. Python must also be installed on the computer.
 You can configure some options in the program.

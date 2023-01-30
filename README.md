@@ -1,5 +1,6 @@
 # Key_Hunter_Max
 search for bitcoin keys, wallet files, seed phrases in any files
+____
 To start, you can use programs VS Code or PyCharm. Python must also be installed on the computer.
 You can configure some options in the program.
 1- on line 17 you can enter the number of threads. The default is 10.

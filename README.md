@@ -14,3 +14,14 @@ ____
 * At the moment, work is underway to refine and optimize the program. If you come across files in which the program does not see the keys, please let me know at the email address specified in the profile. You can also write your suggestions there.
 * You can support me, say thank you, or make a contribution to the project by sending a transfer to the BTC 17qKVuKztzRBzyDL6gFjG4qitDy2TrBFws
 or ETH 0x1Ec2291E33Bc399Fa65e4DE03966d5Ed7a550583
+
+
+
+
+
+
+
+
+
+
+google-site-verification: google3c4679b1451070bc.html
